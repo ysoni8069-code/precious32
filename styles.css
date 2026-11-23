@@ -1,0 +1,30 @@
+/* Custom Editorial & Orbital Styles Matching the Precious 32 Logo */
+
+.orbital-ring {
+  position: absolute;
+  top: -120px;
+  right: -140px;
+  width: 640px;
+  height: 320px;
+  border: 1.5px solid rgba(17, 17, 17, 0.07);
+  border-radius: 50%;
+  transform: rotate(-16deg);
+}
+
+.orbital-ring::after {
+  content: '';
+  position: absolute;
+  inset: 22px;
+  border: 1px dashed rgba(197, 160, 89, 0.25);
+  border-radius: 50%;
+}
+
+.filter-btn.active {
+  background-color: #111111;
+  color: #FAF9F6;
+  border-color: #111111;
+}
+
+.service-card.hidden-card {
+  display: none;
+}

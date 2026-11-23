@@ -1,26 +1,9 @@
-# Precious 32 Dental Clinic & Implant Centre
+# Precious 32 Dental Clinic & Implant Centre — Official Website
 
-A simple, responsive static website for Precious 32 Dental Clinic & Implant Centre in Guwahati, Assam.
+A responsive static website built for **Precious 32 Dental Clinic and Implant Centre** in Rajgarh, Guwahati, led by **Dr. Saurav Shankar Das** *(MDS Periodontist, Implantologist & LASER Specialist)* with **10+ years of clinical experience**.
 
-## Files
-
-- `index.html` — complete website. The clinic photos are embedded in the HTML, so no separate image assets are needed.
-
-## Run locally
-
-Open `index.html` in a web browser.
-
-## Publish with GitHub Pages
-
-1. Create a new GitHub repository (for example, `precious-32-dental-clinic`).
-2. Upload `index.html` and this `README.md` to the repository root.
-3. In the repository, open **Settings → Pages**.
-4. Under **Build and deployment**, choose **Deploy from a branch**.
-5. Select the `main` branch and `/ (root)` folder, then save.
-6. GitHub will provide the published website URL after deployment.
-
-## Before publishing
-
-Confirm the clinic's booking number. The supplied details included both `+91 89718 84407` and `+91 78994 84407`; the current Call and WhatsApp links use `+91 89718 84407`.
-
-Also verify the clinic hours displayed on the website before publishing.
+## Quick GitHub Pages Deployment
+1. Create a new public repository on GitHub (e.g., `precious-32-dental-clinic`).
+2. Extract this ZIP archive and upload all files (`index.html`, `styles.css`, `script.js`, `README.md`, and the `assets/` folder containing `logo.png`) to the root of your repository.
+3. Navigate to **Settings → Pages** in your GitHub repository.
+4. Under **Build and deployment → Branch**, select `main` and `/ (root)`, then click **Save**.
